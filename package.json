@@ -1,0 +1,22 @@
+{
+  "name": "dkto.js-user",
+  "version": "1.0.0",
+  "keywords": [
+    "discord.js",
+    "framework",
+    "discord.js-v13",
+    "discord.js-v14"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AestheticsPeace/dkto.js-user.git"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  },
+  "typings": "./index.d.ts",
+  "author": "AestheticsPeace",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {}
+}

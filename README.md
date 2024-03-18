@@ -1,7 +1,7 @@
-# dkto.js
+# dkto.js-user
 <a href="https://discord.gg/H9Scw4mztH"><img src="https://img.shields.io/discord/944271427429871658?color=5865F2&logo=discord&logoColor=white" alt="Discord Server"/></a>
 
-**[dkto.js](https://www.npmjs.com/package/dkto.js)** will be kept up-to-date with the latest **[discord.js](https://www.npmjs.com/package/discord.js)** stable updates!
+**[dkto.js-user](https://www.npmjs.com/package/dkto.js-user)** will be kept up-to-date with the latest **[discord.js](https://www.npmjs.com/package/discord.js)** stable updates!
 
 ---
 
